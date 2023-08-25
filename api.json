@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 7.00,
+        "id": 1,
+        "title": "Damy´s",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/1.jpg"
+    },
+    {
+        "precio": 12.00,
+        "id": 2,
+        "title": "Paquete Dulces",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/2.jpg"
+    },
+    {
+        "precio": 23.00,
+        "id": 3,
+        "title": "Freskas",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/3.jpeg"
+    },
+    {
+        "precio": 20.00,
+        "id": 4,
+        "title": "Cholocalte Vaquita",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/4.jpg"
+    },
+    {
+        "precio": 59.01,
+        "id": 5,
+        "title": "Cacahuates Paquete",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/5.jpg"
+    },
+    {
+        "precio": 12.00,
+        "id": 6,
+        "title": "Garapiñado",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/6.jpg"
+    },
+    {
+        "precio": 16.00,
+        "id": 7,
+        "title": "Winis",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/7.jpg"
+    },
+    {
+        "precio": 24.00,
+        "id": 8,
+        "title": "Wonka Nerds",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/8.jpg"
+    },
+    {
+        "precio": 49.00,
+        "id": 9,
+        "title": "Skwinkles",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/9.jpg"
+    },
+    {
+        "precio": 15.00,
+        "id": 10,
+        "title": "A&W",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/10.jpg"
+    },
+    {
+        "precio": 12.00,
+        "id": 11,
+        "title": "Dr Pepper",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/11.jpg"
+    },
+    {
+        "precio": 13.00,
+        "id": 12,
+        "title": "Chocoretas",
+        "thumbnailUrl": "https://kempt-kisses.000webhostapp.com/HTML%20adaptativo/12.jpeg"
+    }
+]
